@@ -6,7 +6,6 @@ fold (block) across replicates.
 
 ## Authors: Rafael Massahiro Yassue; José Felipe Gonzaga Sabadin; Giovanni Galli; Filipe Couto Alves; Roberto Fritsche-Neto
 
-
 ## Example
 
 ```{r cars}
@@ -24,3 +23,7 @@ example2$rest
 example2$non.ortho
 
 ```
+## REFERENCES
+
+## Acknowledgements
+This study was financed in part by the Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Brasil (CAPES) - Finance Code 001, Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq).
