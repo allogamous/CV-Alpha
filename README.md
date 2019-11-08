@@ -1,4 +1,4 @@
-# CV-Alpha
+# CV-α
 The CV-α is a cross-validation methodology and was meant to create scenarios with two, three, or four replicates, regardless of the number of treatments. 
 Each replicate is split into folds, and the number of folds will determine the percentage of training and validation population. 
 Each fold across replicates is based on the α(0,1) lattice design aiming to reduce the concurrences of any two treatments in the same 
@@ -23,7 +23,7 @@ example2$rest
 example2$non.ortho
 
 ```
-## REFERENCES
+## References
 
 ## Acknowledgements
 This study was financed in part by the Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Brasil (CAPES) - Finance Code 001, Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq).
