@@ -11,9 +11,16 @@ fold (block) across replicates.
 
 ```{r cars}
 source("https://github.com/allogamous/CV-Alpha/blob/master/codes.R")
-example2 <- fivefoldCV(gid = 1:906)
+
+example <- tenfoldCV(gid = as.character(1:906)) # Ten folds and two replicates
+head(example, 12)
+head(example[example$replicate == 2,], 10)
+tail(example, 10)
+
+example2 <- fivefoldCV(gid = 1:906) # Five folds and four replicates 
 head(example2[[1]], 12)
 example2$size
 example2$rest
 example2$non.ortho
+
 ```
