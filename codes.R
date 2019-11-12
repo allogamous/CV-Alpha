@@ -30,12 +30,6 @@ tenfoldCV <- function(gid, seed = 29121983){
     
 }
 
-
-system.time(example <- tenfoldCV(gid = as.character(1:906)))
-head(example, 12)
-head(example[example$replicate == 2,], 10)
-tail(example, 10)
-
 #################
 
 # function to create CV groups based on alfa-latice principles
