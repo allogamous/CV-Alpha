@@ -25,7 +25,7 @@ example2$non.ortho
 ```
 ## References
 
-Yassue, R.M., Sabadin, F., Galli, G. et al. CV-α: designing validations sets to increase the precision and enable multiple comparison tests in genomic prediction. Euphytica 217, 106 (2021). https://doi.org/10.1007/s10681-021-02831-x
+Yassue, R.M., Sabadin, F., Galli, G., Alves, F.C., Fritsche-Neto, R. CV-α: designing validations sets to increase the precision and enable multiple comparison tests in genomic prediction. Euphytica 217, 106 (2021). https://doi.org/10.1007/s10681-021-02831-x
 
 ## Acknowledgements
 This study was financed in part by the Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Brasil (CAPES) - Finance Code 001, Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq).
